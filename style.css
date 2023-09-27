@@ -3,10 +3,7 @@ h1 {
     color: blue;
 }
 .container {
-            border: 1px solid black;
-            margin: 20px;
-            height: 80px;
-            overflow: hidden; /* Pour "couper" ce qui dépasse du conteneur */
+                     margin: 20px;
         }
 
 img{
