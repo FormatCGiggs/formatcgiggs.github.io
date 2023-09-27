@@ -6,3 +6,10 @@ h1 {
 img{
     width: 100%; 
 }
+.container , .row , .column , .columns {
+
+border: 1px solid black;
+
+
+
+}
