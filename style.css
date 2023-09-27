@@ -6,11 +6,14 @@ h1 {
 img{
     width: 100%; 
 }
-.container , .row , .column , .columns {
 
-border: 1px solid black;
-}
+.flex2 {
+            display: flex;
+            justify-content: space-evenly; /*Centrage "équitablement" */
+            align-items: center; 
+           
 
-.avec-marge {
-    margin-top : 100px;
-}
+        }
+
+
+
