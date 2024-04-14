@@ -18,7 +18,7 @@ p {
 }
 
 img{
-    width: 75%; 
+    width: 100%; 
 }
 
 div {
@@ -29,6 +29,7 @@ justify-content: space-between;
 
 .images3 {
     display: flex;
+    flex: auto;
     gap: 20px;
     margin: 20px;
     justify-content: space-evenly; 
