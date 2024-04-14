@@ -18,7 +18,7 @@ p {
 }
 
 img{
-    width: auto; 
+    width: 25%; 
 }
   
 
@@ -29,7 +29,4 @@ img{
     /* justify-content: space-evenly;  */
 }
 
-.IMG_476.jpg {
-     with: 25%;
-     heigh: 25%;
 
