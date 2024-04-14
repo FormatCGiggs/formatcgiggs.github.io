@@ -7,6 +7,7 @@ h1, .flex {
     font-family: 'Montserrat', Courier, monospace;
     color: #F27649;
     text-align: center;
+    display: flex;
 }
 
 p {
@@ -35,6 +36,7 @@ justify-content: space-between;
     margin: 20px;
     justify-content: space-evenly; 
     max-width: 100%;
+    flex-wrap: wrap;
 }
 
 
