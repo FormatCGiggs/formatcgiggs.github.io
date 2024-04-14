@@ -19,7 +19,7 @@ p {
 
 img{
     width: 100%; 
-    display: center;
+    display: flex
 }
 
 div {
