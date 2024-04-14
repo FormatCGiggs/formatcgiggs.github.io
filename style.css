@@ -37,6 +37,7 @@ justify-content: space-between;
     justify-content: space-evenly; 
     max-width: 100%;
     flex-wrap: wrap;
+    block-size: fit-content;
 }
 
 
