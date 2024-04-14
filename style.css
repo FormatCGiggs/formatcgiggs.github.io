@@ -20,7 +20,11 @@ p {
 img{
     width: 100%; 
 }
-  
+
+div {
+  display: flex;
+  justify-content: space-between;
+}
 
 .images3 {
     display: flex;
